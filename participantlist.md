@@ -1,5 +1,5 @@
 # Participants
-*
+* Max Nöthe
 *
 *
 *
