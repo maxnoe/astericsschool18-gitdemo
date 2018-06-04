@@ -1,9 +1,9 @@
 def fib(N):
-    if N == 0:
-        return 1
-    if N == 1:
-        return 1
-    return fib(N - 1) + fib(N - 2)
+    n0 = 1
+    n1 = 1
+    for i in range(N - 1):
+        n1, n0 = n1 + n0, n1
+    return n1
 
 
 if __name__ == "__main__":
