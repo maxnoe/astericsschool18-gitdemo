@@ -1,4 +1,5 @@
 def fib(N):
+    """Compute the N-th Fibonacci number"""
     n0 = 1
     n1 = 1
     for i in range(N - 1):
