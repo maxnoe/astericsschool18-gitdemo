@@ -1,6 +1,7 @@
 # Participants
 * Kai Brügge
 *
+* Max Nöthe
 *
 *
 *
